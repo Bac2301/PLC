@@ -16,3 +16,10 @@
 
 # Đọc nhiệt độ bằng PT100
 
+**Thiết bị:**
++ PT100
++ Bộ chuyển đổi nhiệt
++ Điện trở 500 ohm
++ PLC s7 1200
+
+**Đấu nối:**
