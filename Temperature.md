@@ -1,2 +1,18 @@
-# dfsafdsa
+# Đọc nhiệt độ bằng PTA9B01
+
+**Thiết bị:**
++ PTA9B01
++ Module mở rông CM1241 RS485
++ PLC S7 1200
+  
+**Đấu nối:**
+
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/bc690520-8c47-4fdf-a927-ce92ee5f44f5" >
+<img width="739" height="305" alt="image" src="https://github.com/user-attachments/assets/cdc728c7-9873-4108-96e2-1fe66b46bd61" />
+
+**Chương trình:**
+
+<img width="838" height="614" alt="image" src="https://github.com/user-attachments/assets/29963ac5-4ffa-413c-bce4-2dde86ee1e0d" />
+
+# Đọc nhiệt độ bằng PT100
 
