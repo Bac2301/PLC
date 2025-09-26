@@ -27,5 +27,14 @@
 
 <img width="600" height="455" alt="image" src="https://github.com/user-attachments/assets/223e0e65-5a5e-43f6-b90d-d711c318bb0e" />
 
+**Giải thích:**
 
++ PT100 xuất giá trị analog dòng từ 4-20mA  
++ PLC S71200 có chân đọc analog nhưng chỉ đọc được điện áp từ 0-10V. Phải cần có module analog mở rộng mới đọc được dòng từ 4-20mA.
++ Để đọc mà không cần module mở rộng thì dùng một điện trở 500 ohm
++ Vout = I*R 
++ -> 10V = 20mA *R
++ -> R = 10/(20/10^-3) = 500 ohm
+
+**Chương trình:**
 
