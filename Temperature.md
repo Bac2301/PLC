@@ -38,3 +38,8 @@
 
 **Chương trình:**
 
+<img width="600" height="384" alt="image" src="https://github.com/user-attachments/assets/9b676e41-e618-432d-a44d-eff715ce9b53" />
+
+**Mô hình thực tế:**
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/baa6dea4-5f31-47bc-9acf-d532bf55d1bf" />
