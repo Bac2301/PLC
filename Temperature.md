@@ -1,4 +1,5 @@
-# Đọc nhiệt độ bằng PTA9B01
+# Đọc nhiệt độ bằng PTA9B01 và PT100
+## Đọc nhiệt độ bằng PTA9B01
 
 **Thiết bị:**
 + PTA9B01
@@ -14,7 +15,7 @@
 
 <img width="838" height="614" alt="image" src="https://github.com/user-attachments/assets/29963ac5-4ffa-413c-bce4-2dde86ee1e0d" />
 
-# Đọc nhiệt độ bằng PT100
+## Đọc nhiệt độ bằng PT100
 
 **Thiết bị:**
 + PT100
@@ -23,3 +24,8 @@
 + PLC s7 1200
 
 **Đấu nối:**
+
+<img width="600" height="455" alt="image" src="https://github.com/user-attachments/assets/223e0e65-5a5e-43f6-b90d-d711c318bb0e" />
+
+
+
